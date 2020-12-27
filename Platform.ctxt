@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Platform
+comment1.params=jp\ x_\ y_\ w_\ h_
+comment1.target=Platform(javax.swing.JPanel,\ int,\ int,\ int,\ int)
+comment10.params=amt
+comment10.target=void\ moveLeft(int)
+comment11.params=g
+comment11.target=void\ draw(java.awt.Graphics)
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=jp\ x_\ y_\ w_\ h_\ c\ o\ t
+comment2.target=Platform(javax.swing.JPanel,\ int,\ int,\ int,\ int,\ java.awt.Color,\ boolean,\ java.lang.String)
+comment3.params=v
+comment3.target=void\ setOscelate(boolean)
+comment4.params=
+comment4.target=boolean\ willOscelate()
+comment5.params=
+comment5.target=java.lang.String\ getTag()
+comment6.params=minx\ maxx\ p
+comment6.target=void\ oscelate(int,\ int,\ PlayerCharacter)
+comment7.params=
+comment7.target=int\ getSpeed()
+comment8.params=amt
+comment8.target=void\ moveRight(int)
+comment9.params=src
+comment9.target=void\ setSource(java.lang.String)
+numComments=13
